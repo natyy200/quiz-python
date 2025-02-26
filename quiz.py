@@ -50,7 +50,7 @@ else:
     print('Incorreto! Resposta correta: A \n')
 
 # Pergunta 5
-print('5. Qual das alternativas é um exemplo de IA fraca? \n A) Minimizar o erro de previsão utilizando dados rotulados. \n B) Aprender sem a necessidade de dados de entrada. \n C) Maximizar a recompensa por meio de interações com o ambiente. \n D) Organizar grandes volumes de dados sem supervisionamento. \n')
+print('5. Qual é o principal objetivo do aprendizado por reforço? \n A) Minimizar o erro de previsão utilizando dados rotulados. \n B) Aprender sem a necessidade de dados de entrada. \n C) Maximizar a recompensa por meio de interações com o ambiente. \n D) Organizar grandes volumes de dados sem supervisionamento. \n')
 answer_5 = input('Resposta: ')
 
 if answer_5 == 'C':
